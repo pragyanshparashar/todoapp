@@ -4,8 +4,8 @@
 
 .container{
  padding-top: 1rem;
-  background-color:darksalmon ;
+   }
 
-
-  
+.img{
+  border-radius: 5px;
 }
